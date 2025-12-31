@@ -1,10 +1,6 @@
-# Support Page
 
-If you need help, have questions, or want to report an issue related to this application, contact:
+# Support
+
+For any questions, issues, or support requests related to this application, contact:
 
 Email: takobuildfounder@gmail.com
-
-Response time is not guaranteed.
-
-This app is provided as-is.
-
