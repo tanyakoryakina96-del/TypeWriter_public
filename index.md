@@ -1,3 +1,4 @@
+# Privacy Policy
 Effective date: 2025-12-31
 
 This application does not collect, store, process, transmit, or share any personal or sensitive user data.
