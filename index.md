@@ -11,3 +11,7 @@ If data collection practices change in the future, this privacy policy will be u
 
 Contact:
 takobuildfounder@gmail.com
+
+## Support
+
+Support: /support
