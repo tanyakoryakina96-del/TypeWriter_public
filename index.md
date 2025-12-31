@@ -14,4 +14,4 @@ takobuildfounder@gmail.com
 
 ## Support
 
-support: /support
+[Support](/support)
