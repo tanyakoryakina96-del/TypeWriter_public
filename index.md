@@ -14,4 +14,4 @@ takobuildfounder@gmail.com
 
 ## Support
 
-Support: /support
+support: /support
